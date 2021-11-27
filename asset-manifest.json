@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Friday_react_project/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Friday_react_project/static/js/main.3fad6bc0.chunk.js",
+    "main.js.map": "/Friday_react_project/static/js/main.3fad6bc0.chunk.js.map",
+    "runtime-main.js": "/Friday_react_project/static/js/runtime-main.77f25f62.js",
+    "runtime-main.js.map": "/Friday_react_project/static/js/runtime-main.77f25f62.js.map",
+    "static/js/2.63a52878.chunk.js": "/Friday_react_project/static/js/2.63a52878.chunk.js",
+    "static/js/2.63a52878.chunk.js.map": "/Friday_react_project/static/js/2.63a52878.chunk.js.map",
+    "static/js/3.e3af8c2c.chunk.js": "/Friday_react_project/static/js/3.e3af8c2c.chunk.js",
+    "static/js/3.e3af8c2c.chunk.js.map": "/Friday_react_project/static/js/3.e3af8c2c.chunk.js.map",
+    "index.html": "/Friday_react_project/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Friday_react_project/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.63a52878.chunk.js.LICENSE.txt": "/Friday_react_project/static/js/2.63a52878.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Friday_react_project/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f25f62.js",
+    "static/js/2.63a52878.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.3fad6bc0.chunk.js"
+  ]
+}
